@@ -1,6 +1,6 @@
 # Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer amédiaaritmética desses números
 
-Exercício 13: Média Aritmética de Números Decimais
+# Exercício 13: Média Aritmética de Números Decimais
 
 ---
 
